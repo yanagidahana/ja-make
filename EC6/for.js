@@ -1,3 +1,4 @@
 colors.forEach(function(color) {
   console.log(color);
 });
+
